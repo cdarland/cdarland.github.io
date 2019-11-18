@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cdarland
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dar.land
+  * I am cdarland (https://keybase.io/cdarland) on keybase.
+  * I have a public key ASAfYzy2brZj7lYld6gE29dqDqIdk097pkZ5KC1z9GcBJwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f633cb66eb663ee562577a804dbd76a0ea21d934f7ba64679282d73f46701270a",
+      "host": "keybase.io",
+      "kid": "01201f633cb66eb663ee562577a804dbd76a0ea21d934f7ba64679282d73f46701270a",
+      "uid": "4089e18664dae3b525a527c9bec98b19",
+      "username": "cdarland"
+    },
+    "merkle_root": {
+      "ctime": 1574119328,
+      "hash": "77d5452aa507dae3f52b082dde1fc7bcaea9cd412a318523bdae307f541d2c2c5194169d1128b23aa01bd0aa1a24a35bfd776d3c6fcbd8fc4eaa34560d61be76",
+      "hash_meta": "c300b2dee9e097c40cb554928f5592d552e732918c22b7a5015e08a92d8ecfb7",
+      "seqno": 10132846
+    },
+    "service": {
+      "entropy": "W1XOR35xRVT0oqdI2+GhT6rX",
+      "hostname": "dar.land",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574119376,
+  "expire_in": 504576000,
+  "prev": "7538114bcfcc178724a36ab5a5ec9e9b666e2f05bfe17ec583cfd0dbeab36a37",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgH2M8tm62Y+5WJXeoBNvXag6iHZNPe6ZGeSgtc/RnAScKp3BheWxvYWTESpcCB8QgdTgRS8/MF4cko2q1peyem2ZuLwW/4X7Fg8/Q2+qzajfEIE82q4xC5QlS66agIgJQ1a7H02OR40DNTFDIrS+BTSRVAgHCo3NpZ8RA16vpC0XBT+LtxC/tMMXZNesBMvQfuJuRtMK/yCb0bl/yXg2Yhnmrq0PQiU43HeZ9MkGPfU8M4YcXoDqz2KPADqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINa1g8UosR276FFDZfzKYPacLm1Rn29utFFtyr3Wn7Azo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cdarland
+
+==================================================================
